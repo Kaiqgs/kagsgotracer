@@ -1,6 +1,6 @@
 # handwired/kagsgotracer
 
-![handwired/kagsgotracer](imgur.com image replace me!)
+![handwired/kagsgotracer](.kagsgophoto.heic)
 
 *A short description of the keyboard/project*
 
