@@ -1,14 +1,16 @@
 # handwired/kagsgotracer
 
 
-![handwired/kagsgotracer](.kagsgotracer.png)
-![handwired](.kagsgotracer_naked.png)
+![handwired/kagsgotracer](https://raw.githubusercontent.com/Kaiqgs/kagsgotracer/main/kagsgotracer.jpg)
+
+
+![handwired](https://raw.githubusercontent.com/Kaiqgs/kagsgotracer/main/kagsgotracer_naked.jpeg)
 
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer: [Kaique Santos](https://github.com/Kaiqgs)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Supported: *pro micros*
+* Hardware Availability: *dm me*
 
 Make example for this keyboard (after setting up your build environment):
 
