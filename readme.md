@@ -1,6 +1,8 @@
 # handwired/kagsgotracer
 
-![handwired/kagsgotracer](.kagsgophoto.heic)
+
+![handwired/kagsgotracer](.kagsgotracer.png)
+![handwired](.kagsgotracer_naked.png)
 
 *A short description of the keyboard/project*
 
