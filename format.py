@@ -273,10 +273,11 @@ num_keys = inherit([
 
 rowfn_keys = inherit([
     ["KC_F1", "KC_F2", "KC_F3", "KC_F4", "KC_F5", "_", "_", "KC_F6", "KC_F7", "KC_F8", "KC_F9", "KC_F10"],
-    ["CW_TOGG", "KC_PSCR", "LCTL(KC_S)", "KC_NUM", None, None, None, None, *right_gacs],
-    ["KC_END", "KC_PGDN", "KC_PGUP", "KC_HOME", None, None, None, None, None, None, None, None],
-    [None, "KC_F11", "KC_CAPS", None, None, None, None, None, None, None, "KC_F12", None],
-],                     keys)
+    ["CW_TOGG", "KC_PSCR", "LCTL(KC_S)", "LCTL(KC_N)", "KC_NUM", None, None, None, *right_gacs],
+    ["KC_HOME", "KC_PGUP", "KC_PGDN", "KC_END", "KC_CAPS", None, None, None, None, None, None, None],
+    [None, "KC_F11", None, None, None, None, None, None, None, None, "KC_F12", None],
+],  keys)
+
 sys_keys = inherit([
     ["QK_BOOT", "DB_TOGG", "QK_RBT", None, None, None, None, "KC_SLEP", "KC_WAKE", None, None, "KC_PWR"],
     [None, None, None, None, None, None, None, None, None, None, None, None],
